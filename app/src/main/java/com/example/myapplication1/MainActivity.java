@@ -12,8 +12,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView ( R.layout.activity_main );
         //你好，android！
         String s;
-        int a=0;
+        int a = 0;
         //提交由android studio
         //提交由xmxmxsfuser2
+        int c = 0;
+        //android User1
+        //这部分內容由android端编写
+        //相同1
+        //相同2
+        //相同3
     }
 }
