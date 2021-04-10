@@ -1,5 +1,7 @@
 package com.example.myapplication1;
 
+import android.util.Log;
+
 /**
  * 作品人:create By shaoDong on 2021/4/10 10: 05
  * 邮箱：myu17635728243@163.com
@@ -8,5 +10,8 @@ package com.example.myapplication1;
  *
  * @author
  **/
-class Master {
+public class Master {
+    public static void m ( ) {
+        Log.i ( "tt", "master工作空间下建立的class" );
+    }
 }
